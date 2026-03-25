@@ -10,7 +10,7 @@ The Staff Path is an open-source, self-directed system design curriculum that ta
 
 ## Why This Exists
 
-I was looking ofr a good system design resource all over the internet lately that would not require me breaking the bank. The problem was that most system design resources were either too expensive or they teach you to perform in an interview, not think like a Staff engineer in production.
+I was looking for a good system design resource all over the internet lately that would not require me breaking the bank. The problem was that most system design resources were either too expensive or they teach you to perform in an interview, not think like a Staff engineer in production.
 
 Staff work is messier than the canonical resources suggest. Requirements are buried in Slack threads. Compliance shows up after the architecture is half-built. The previous engineer left no documentation. Your design has to survive a budget conversation, a regulatory audit, and a 3x growth projection — simultaneously.
 

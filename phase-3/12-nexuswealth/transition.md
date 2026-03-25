@@ -1,0 +1,7 @@
+# Transition: Leaving NexusWealth
+
+You spend your last day at NexusWealth the same way you spent your first: in front of a whiteboard. This time, though, you're not drawing diagrams for the team — you're erasing them. Not to hide them, but because the engineer taking over knows the system better than the whiteboard does at this point. The architecture lives in the codebase, the ADRs, and the 50-year document you wrote that Priya had bound and placed in the physical archive alongside Raymond Osei-Mensah's 1987 COBOL printout. That felt right.
+
+The lesson NexusWealth gave you was the most uncomfortable kind: that time is a system constraint. Not the delivery deadline kind of time, but the geological kind — the kind that outlasts the team that built the system, the company that bought it, and possibly the regulatory framework that justified it. You designed a benefit statement that a retiree would read in 2074 and trust completely. That reframed everything. Not "will this work this quarter?" — but "will an engineer who hasn't been born yet be able to understand why this number is what it is?" Every architectural decision after that question felt different. Heavier. More deliberate. Right.
+
+Next: PropIQ, a commercial real estate intelligence company. They aggregate data from county assessors, MLS feeds, building permits, satellite imagery, and environmental reports. First day, someone mentions that the pricing analytics queries are timing out. Some things stay the same.
